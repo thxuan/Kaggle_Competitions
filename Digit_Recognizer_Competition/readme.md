@@ -1,6 +1,4 @@
-# Digit Recognizer - Kaggle Competition
-
-## Overview
+## 📂Digit Recognizer - Kaggle Competition
 This repository contains my solution for the **Digit Recognizer** competition on Kaggle. The task is to predict the digit in an image using machine learning techniques.
 
 - **Competition Type**: Kaggle Competition
@@ -12,3 +10,4 @@ This project helped me practice the full Kaggle workflow, including:
 - Data preprocessing
 - Model training with K-Fold cross-validation
 - Ensemble methods to improve performance
+
