@@ -6,7 +6,7 @@ This repository contains my solution for the **Digit Recognizer** competition on
 - **Competition Type**: Kaggle Competition
 - **Task**: Classify handwritten digits (0-9)
 - **Dataset**: Provided by Kaggle
-- **Best Score**: 0.99628 (Rank 11 as of 2025/07/06)
+- **Best Score**: 0.99628 (Rank 57 as of 2025/07/06)
 
 This project helped me practice the full Kaggle workflow, including:
 - Data preprocessing
